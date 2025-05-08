@@ -391,11 +391,9 @@ technique  is  effective  in  gaining  passwords,  personal  identification  num
 numbers, credit card information, and similar data. Attackers can easily perform shoulder surfing in a
 crowded place, as it is relatively easy to stand behind and watch the victim without his or her knowledge
 
-•
+
 
-•
-
- Dumpster Diving
+ •  Dumpster Diving
 This  uncouth  technique,  also  known  as  trashing,  involves  the  attacker  rummaging  for  information  in
 garbage bins. The attacker may gain vital information such as phone bills, contact information, financial
 information,  operations-related
@@ -429,7 +427,6 @@ Some of the footprinting countermeasures are as follows:
 •  Prevent search engines from caching a web page and use anonymous registration services.
 •  Develop and enforce security policies such as information security and password policies to regulate the
 
-•
 
 information that employees can reveal to third parties.
 Implement  multi-factor  authentication  mechanisms  to  enhance  the  security  of  the  organization's
