@@ -141,6 +141,7 @@ Attackers can also use SearchSploit, which is a command-line search tool for Exp
 ## Footprinting through Internet Research Services
 
 Internet research services such as people search services can provide sensitive information about the target. People search services, alerting services, financial services, and job sites provide information about a target such as infrastructure details, physical location, and employee details. Using this information, an attacker may build a hacking strategy to break into the target organization’s network and carry out other types of advanced system attacks.
+
 ![Screenshot 2025-05-08 111846](https://github.com/user-attachments/assets/1cb47496-c7cb-40a4-a008-eccbf472eb82)
 
 This section aims to familiarize you with:
@@ -151,6 +152,7 @@ This section aims to familiarize you with:
 - Gathering competitive intelligence, etc.
 
 ---
+
 ![Screenshot 2025-05-08 113643](https://github.com/user-attachments/assets/b9d00c5d-a422-4831-818d-9fb1a51f4da6)
 
 ## Extracting Website Information from [archive.org](https://archive.org)
