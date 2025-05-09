@@ -85,6 +85,7 @@ The following are assorted threats made possible through footprinting:
 - *Business Loss:* Footprinting can have a major effect on organizations such as online businesses and other e-commerce websites as well as banking and finance-related businesses. Billions of dollars are lost every year due to malicious attacks by hackers.
 
 ---
+![Screenshot 2025-05-08 110750](https://github.com/user-attachments/assets/a19a84c4-132f-4748-a94e-72cac0013d69)
 
 ## What can a Hacker Do with Google Hacking?
 
@@ -140,6 +141,7 @@ Attackers can also use SearchSploit, which is a command-line search tool for Exp
 ## Footprinting through Internet Research Services
 
 Internet research services such as people search services can provide sensitive information about the target. People search services, alerting services, financial services, and job sites provide information about a target such as infrastructure details, physical location, and employee details. Using this information, an attacker may build a hacking strategy to break into the target organization’s network and carry out other types of advanced system attacks.
+![Screenshot 2025-05-08 111846](https://github.com/user-attachments/assets/1cb47496-c7cb-40a4-a008-eccbf472eb82)
 
 This section aims to familiarize you with:
 - Finding the target company’s top-level domains, subdomains, and geographical location
@@ -149,6 +151,7 @@ This section aims to familiarize you with:
 - Gathering competitive intelligence, etc.
 
 ---
+![Screenshot 2025-05-08 113643](https://github.com/user-attachments/assets/b9d00c5d-a422-4831-818d-9fb1a51f4da6)
 
 ## Extracting Website Information from [archive.org](https://archive.org)
 
@@ -183,6 +186,7 @@ Gathering network-related information such as “Whois” information about the 
 ---
 
 ## Finding IP Geolocation Information
+![Screenshot 2025-05-08 115236](https://github.com/user-attachments/assets/08c42f2a-62ae-4c78-b14f-d66653d1c1d5)
 
 IP geolocation helps to obtain information regarding a target such as its country, region/state, city, latitude and longitude of its city, ZIP/postal code, time zone, connection speed, ISP (hosting company), domain name, IDD country code, area code, weather station code and name, mobile carrier, and elevation.
 
@@ -204,6 +208,7 @@ After collecting the Whois records of the target, the next phase of the footprin
 ### Extracting DNS Information
 
 DNS footprinting reveals information about DNS zone data. DNS zone data include DNS domain names, computer names, IP addresses, and much more information about a network. An attacker uses DNS information to determine key hosts in the network and then performs social engineering attacks to gather even more information. DNS footprinting helps in determining the following records about the target DNS:
+![Screenshot 2025-05-08 115656](https://github.com/user-attachments/assets/5833dfb8-7e0c-46da-b534-50e4c0dc4cf6)
 
 ---
 
