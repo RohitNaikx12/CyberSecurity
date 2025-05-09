@@ -188,6 +188,8 @@ Gathering network-related information such as “Whois” information about the 
 ---
 
 ## Finding IP Geolocation Information
+
+
 ![Screenshot 2025-05-08 115236](https://github.com/user-attachments/assets/08c42f2a-62ae-4c78-b14f-d66653d1c1d5)
 
 IP geolocation helps to obtain information regarding a target such as its country, region/state, city, latitude and longitude of its city, ZIP/postal code, time zone, connection speed, ISP (hosting company), domain name, IDD country code, area code, weather station code and name, mobile carrier, and elevation.
