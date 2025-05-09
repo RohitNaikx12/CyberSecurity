@@ -54,6 +54,7 @@ Direct interaction with the target.
 - **Business Loss**
 
 ---
+![Screenshot 2025-05-08 110750](https://github.com/user-attachments/assets/3100d0cc-0a9e-4628-963e-6c9799d586e8)
 
 ## Google Hacking
 
@@ -64,6 +65,7 @@ Google Dorking involves crafting queries using operators to find:
 - Error messages
 
 **Source**: [Exploit DB GHDB](https://www.exploit-db.com/google-hacking-database)
+![Screenshot 2025-05-08 111846](https://github.com/user-attachments/assets/54ce0ffe-6df0-4eec-a556-8ae8eadcb085)
 
 Categories:
 - Sensitive Directories
@@ -83,6 +85,7 @@ Includes:
 - Dark web footprinting
 
 ---
+![Screenshot 2025-05-08 113643](https://github.com/user-attachments/assets/ee3c2486-beed-49a3-aaa9-343d9d46e687)
 
 ## Archive.org Footprinting
 
@@ -112,6 +115,7 @@ Gather:
 ### Tools:
 - ARIN database
 - Whois lookup tools
+![Screenshot 2025-05-08 115236](https://github.com/user-attachments/assets/853aa762-1722-42f0-8df9-8b57752cd59d)
 
 ---
 
@@ -132,6 +136,7 @@ Find location-based data:
 Identify:
 - DNS zone data
 - DNS records (A, MX, CNAME, etc.)
+![Screenshot 2025-05-08 115656](https://github.com/user-attachments/assets/d958a0c1-66c1-4a0b-b2e5-f5fe6ef6c26f)
 
 Tools: DNS interrogation tools and reverse DNS lookups
 
@@ -172,10 +177,5 @@ Using traceroute and regional databases (like ARIN):
 
 ---
 
-**[Insert Image: Example of DNS Lookup Output]**
-
-**[Insert Image: Screenshot of a Whois Lookup]**
-
-**[Insert Image: Google Dork Search Example]**
 
 ---
