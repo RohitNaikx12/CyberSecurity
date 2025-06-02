@@ -1,5 +1,6 @@
 # Hello, I'm Rohit
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohitnaik12/)
+ /></a>
 
 [Brief Introduction - Remove this afterwards]
 
