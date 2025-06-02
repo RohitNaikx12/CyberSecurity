@@ -20,6 +20,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 
 ## Certifications
+[![Udemy](https://img.shields.io/badge/Udemy-Learn%20Ethical%20Hacking%20From%20Scratch-orange?style=for-the-badge&logo=udemy)](https://www.udemy.com/)
 
 
 [![Udemy Certificate](https://img.shields.io/badge/Udemy-Certificate-blueviolet?style=for-the-badge&logo=udemy)](https://www.udemy.com/certificate/UC-e6a5343e-e9cd-4241-ae98-50bfc507870c/)
