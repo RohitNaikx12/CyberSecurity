@@ -1,6 +1,5 @@
 # Hello, I'm Rohit
-<a https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohitnaik12/)
- /></a>
+<a [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohitnaik12/)/></a>
 
 
 
